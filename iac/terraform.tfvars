@@ -22,8 +22,8 @@ database_instance_class      = "db.t2.micro"
 publicly_accessible          = "false"
 
 # acm variables
-domain_name       = "zion007thomas.com"
-alternative_names = "*.zion007thomas.com"
+domain_name       = "zion9775thomas.com"
+alternative_names = "*.zion9775thomas.com"
 
 # s3 variables
 env_file_bucket_name = "terraformstatenew007"
